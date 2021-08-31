@@ -1,5 +1,21 @@
 #ISIS1225 - Estructura de un proyecto
 
+Grupo 9
+
+Integrantes:
+
+- Nombre: Nicolas Merchan Cuestas
+
+  Correo: n.merchan@uniandes.edu.co
+  
+  Código: 202112109
+    
+- Nombre: Andrés Felipe Castro Leguizamon
+
+  Correo: a.castrol@uniandes.edu.co
+  
+  Código: 201920805
+
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
